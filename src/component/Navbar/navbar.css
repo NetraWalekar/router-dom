@@ -1,0 +1,12 @@
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+}
+.ele{
+    font-size: 40px;
+    font-family: monotype corsiva;
+    text-decoration: none;
+    color: rgb(238, 238, 245);
+    padding: 20px;
+
+}

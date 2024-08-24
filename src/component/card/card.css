@@ -1,0 +1,7 @@
+.card{
+    color: black;
+    height: 600;  
+    border-radius: 25;
+    display: flex;
+    justify-content: space-around;
+}
